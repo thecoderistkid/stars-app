@@ -1,0 +1,7 @@
+{
+  "name": "stars-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
